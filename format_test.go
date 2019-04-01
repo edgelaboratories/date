@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fxtlabs/date"
+	"github.com/edgelaboratories/date"
 )
 
 func TestParseISO(t *testing.T) {
